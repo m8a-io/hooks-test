@@ -1,8 +1,8 @@
 # Binaries
-main
-hooks-test
-web-server
-worker
+/main
+/hooks-test
+/web-server
+/worker
 
 # OS specifics
 .DS_Store
